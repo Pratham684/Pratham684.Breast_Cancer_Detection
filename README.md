@@ -31,4 +31,4 @@ The​ ​size​ ​of​ ​the​ ​neighborhood​ ​is​ ​adjustable,�
 
 Open the project in matlab and then run **`guidemo.m`** and then a gui mode window will open and then just follow the steps there.For further information check the screenshots.
 
-## NOTE: [](url)indly install MATLAB's [Wavelet Toolbox](https://in.mathworks.com/products/wavelet.html)
+## NOTE: [](url)Kindly install MATLAB's [Wavelet Toolbox](https://in.mathworks.com/products/wavelet.html)
